@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @ThalesAraujoB
-- 👀 I’m interested in learn from advanced and basic classes to know as soon as possible everything about code.
-- 🌱 I’m currently learning C#, Java and JavaScript
-- 💞️ I’m looking to collaborate here. 
-- 📫 How to reach me : @ThalesAraujoB
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!---
-ThalesAraujoB/ThalesAraujoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="left">
+  🦄 Linguagens: <strong>Cursando JAVASCRIPT / HMTL / CSS.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCODE / WINDOWS / GIT e GITHUB.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:thalesabsantos@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/thalesabsantos" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5519981055942&text=Ol%C3%A1%2C%20tudo%20bem%20%3F%20" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+</p>  
