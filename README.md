@@ -2,11 +2,11 @@
 
 
 <p align="left">
-  🦄 Linguagens: <strong>Cursando JAVASCRIPT / HMTL / CSS.</strong>
+  🦄 Linguagens: <strong>Cursando JAVA / HMTL / CSS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE / WINDOWS / GIT e GITHUB.</strong>
+  💼 Ferramentas: <strong>INTELLIJ / WINDOWS / GIT e GITHUB.</strong>
 </p>
 
 <p align="left">
