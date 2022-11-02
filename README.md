@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  🦄 Linguagens: <strong>Cursando JAVA / HMTL / CSS.</strong>
+  🦄 Linguagens: <strong>JAVA / C .</strong>
 </p>
 
 <p align="left">
