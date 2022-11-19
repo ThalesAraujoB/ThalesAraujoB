@@ -1,12 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
 <p align="left">
-  🦄 Linguagens: <strong>JAVA / C .</strong>
+  💼 Área de Especialidade: FULLSTACK (Frontend e Backend).
+  <p/>
+<p align="left">
+  🦄 Linguagens: <strong> HTML, CSS, JAVA e C .</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>INTELLIJ / WINDOWS / GIT e GITHUB.</strong>
+  💼 Ferramentas: <strong> VSCODE, INTELLIJ / WINDOWS / GIT e GITHUB.</strong>
 </p>
 
 <p align="left">
