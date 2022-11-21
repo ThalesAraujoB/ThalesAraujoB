@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  💼 Área de Especialidade: FULLSTACK (Frontend e Backend).
+  💼 Área de Especialidade: FRONT-END.
   <p/>
 <p align="left">
   🦄 Linguagens: <strong> HTML, CSS, JAVA e C .</strong>
