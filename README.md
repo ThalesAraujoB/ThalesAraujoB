@@ -4,7 +4,7 @@
   💼 Área de Especialidade: FRONT-END.
   <p/>
 <p align="left">
-  🦄 Linguagens: <strong> HTML, CSS, JAVASCRIPT, JAVA e C .</strong>
+  🦄 Linguagens: <strong> ANGULAR(FRAMEWORK), HTML, CSS, JAVASCRIPT e TYPESCRIPT .</strong>
 </p>
 
 <p align="left">
