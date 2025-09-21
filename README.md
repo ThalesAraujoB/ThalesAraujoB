@@ -4,11 +4,11 @@
   💼 Área de Especialidade: FRONT-END.
   <p/>
 <p align="left">
-  🦄 Linguagens: <strong> ANGULAR , HTML, CSS, JAVASCRIPT e TYPESCRIPT .</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JAVASCRIPT .</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VSCODE, INTELLIJ / WINDOWS / GIT e GITHUB.</strong>
+  💼 Ferramentas: <strong> VSCODE / WINDOWS / GIT e GITHUB.</strong>
 </p>
 
 <p align="left">
